@@ -1,0 +1,104 @@
+*
+{
+	background-color : rgb(230 245 226)
+}
+
+p
+{
+	text-align : justify;
+	font-size : 10pt;
+	line-height : 10pt;
+	margin-left : 10%;
+	margin-right : 10%;
+	font-family : American Typewriter, serif;
+}
+h1
+{
+	text-align : center;
+	font-size : 24pt;
+	line-height : 30pt;
+	padding-top : 5%;
+	padding-bottom : 5%;
+	background-color : rgb(204 235 197);
+	font-family : monospace;
+	font-weight : 800;
+}
+
+img
+{
+	margin-left : 15%;
+	border-color : black;
+	border-width : medium;
+	border-style : double;
+	height : 400pt;
+	width: 400pt;
+}
+
+h2
+{
+	text-align : center;
+	font-family : Comic Sans MS;
+}
+
+table
+{
+	text-align : center;
+	border-collapse : collapse;
+	border : 2px solid;
+	background-color : rgb(210 225 206);
+	width : 60%;
+}
+
+ul
+{
+	margin-left : 40%;
+	font-size : 24pt;
+	font-family : fantasy;
+}
+
+.caption
+{
+	text-align : center;
+	font-size : 14pt;
+	line-height : 20pt;
+}
+
+.info
+{
+	line-height : 20pt;
+	margin-left : 20%;
+	margin-right : 20%;
+	font-size : 16pt;
+}
+
+th, td
+{
+	border-collapse : collapse;
+	border : 2px solid;
+	background-color : rgb(210 225 206);
+}
+.image
+{
+	width : 500pt;
+	margin-left : 10%
+}
+
+.back-to-top
+{
+	font-size : 20pt;
+	text-align : center;
+}
+
+.credit
+{
+	font-size : 11pt;
+	margin-left : 20%;
+}
+
+.Footer
+{
+	font-size : 14pt;
+	line-height : 10pt;
+	padding-top : 1%;
+	padding-bottom: 1%;
+}
