@@ -102,3 +102,10 @@ th, td
 	padding-top : 1%;
 	padding-bottom: 1%;
 }
+
+.validator
+{
+	width : 165pt;
+	height : 165pt;
+	margin-left : 40%;
+}
